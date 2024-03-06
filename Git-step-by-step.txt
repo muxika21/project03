@@ -1,0 +1,20 @@
+===================================================
+		Push local git to Github repo
+===================================================
+In local gitbash
+1. cd into your dir
+2. touch test01 > code any lines
+3. git add .
+4. git commit -m "update01"
+5. git push origin "branch name"
+
+=====================================================
+		Create and Switch Git Branch
+=====================================================
+1. git checkout -b "branch name"
+2. git push origin " branch name"
+3. git checkout "branch name" //to switch branch
+
+========================================================
+		Additional git command
+=========================================================
